@@ -1,0 +1,42 @@
+table,
+th,
+td {
+  border: 1px solid #11191f;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  background-color: #11191f;
+}
+
+.path {
+  background: white;
+}
+
+.block {
+  background: grey;
+}
+
+.bonus {
+  background: yellow;
+}
+
+.finish {
+  background: red;
+}
+
+.character {
+  background: blue;
+}
+
+.container-fluid {
+  margin-top: 100px;
+  width: 419px;
+}
+
+h1,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
